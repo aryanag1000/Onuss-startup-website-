@@ -1,0 +1,8 @@
+.bg_color--13 {
+  background-color: blue;
+}
+.whatsapp_float {
+  position: fixed;
+  right:20px;
+  bottom : 40px;
+}
